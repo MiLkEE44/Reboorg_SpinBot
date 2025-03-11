@@ -1,5 +1,6 @@
 # Will make Reeborg's World robot spin around,
-# hugging and moving along walls.
+# hugging and moving along walls
+# or going straight if there is no wall.
 def turn_right():
     turn_left()
     turn_left()
